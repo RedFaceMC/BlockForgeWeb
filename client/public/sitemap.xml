@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/discover</loc></url>
+  <url><loc>/mods</loc></url>
+  <url><loc>/plugins</loc></url>
+  <url><loc>/resource-packs</loc></url>
+  <url><loc>/modpacks</loc></url>
+  <url><loc>/maps</loc></url>
+  <url><loc>/shaders</loc></url>
+  <url><loc>/datapacks</loc></url>
+  <url><loc>/about</loc></url>
+  <url><loc>/help</loc></url>
+</urlset>
